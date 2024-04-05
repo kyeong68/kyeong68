@@ -13,11 +13,12 @@
 
 <hr>
 
-### skills
-- Back-End : JAVA ,Java Servlet, Visual Studio Code
-- Database :Oracle DB
-- Front-End : JavaScript, HTML/ CSS
--UI/UX :Figma
--Collaboration : Ginhub
+##skills
 
+ <ul>
+  <li>Back-End : JAVA ,Java Servlet </li>
+  <li> Database :Oracle DB</li>
+  <li>Front-End : JavaScript, HTML/ CSS, Visual Studio Code </li>
+  <li> UI/UX :Figma</li>
   
+</ul>
