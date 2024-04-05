@@ -1,5 +1,20 @@
 ### 세상이 "美" 개발자 김경민입니다👋
 
-- 세상이 아름다운 개발자로서 코드를 분석하고 결과가 맞으면 만족함이란..
-- 오뚝이처럼 개발에 몰두하다보면 안되는건 없다!!
-- 코드들이여 나를지배하라
+- 안녕하세요  FRONT-END개발자이자 코드분석자!
+- 오뚝이처럼 코드를 몰두하면 안되는건 없다!! 
+  
+
+<hr>
+### Contact& Channel
+<li>Email : dnrwo68@naver.com</li>
+<li>Github : kyeong@naver.com</li>
+<hr>
+
+### skills
+- Back-End : JAVA ,Java Servlet, Visual Studio Code
+- Database :Oracle DB
+- Front-End : JavaScript, HTML/ CSS
+-UI/UX :Figma
+-Collaboration : Ginhub
+
+  
