@@ -31,7 +31,7 @@
    <li>구현담당(FRONT-END): 로그인페이지, 장바구니페이지, 상세페이지, 마이페이지, 디자인  </li>
    <li>Git hub: https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT </li
 
-
+<h>
 ## Project 2 뮤비인재개발원(영화장면 보고 맟추는게임)
   <li>개발기간 : 24.01.31 ~ 24.02.02 </li>
   <li>팀명: 승영아화이팅!</li>
