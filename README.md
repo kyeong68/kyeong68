@@ -12,8 +12,7 @@
 </ul>
 
 
-
-##skill
+## Skill
 
  <ul>
   <li>Back-End : JAVA ,Java Servlet </li>
