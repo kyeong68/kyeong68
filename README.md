@@ -4,10 +4,13 @@
 - 오뚝이처럼 코드를 몰두하면 안되는건 없다!! 
   
 
-<hr>
-### Contact& Channel
-<li>Email : dnrwo68@naver.com</li>
-<li>Github : kyeong@naver.com</li>
+
+## Contact& Channel
+<ul>
+  <li>Email : dnrwo68@naver.com</li>
+  <li>Github : kyeong@naver.com</li>
+</ul>
+
 <hr>
 
 ### skills
