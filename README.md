@@ -11,14 +11,12 @@
   <li>Github : kyeong@naver.com</li>
 </ul>
 
-<hr>
+
 
 ##skills
-
  <ul>
   <li>Back-End : JAVA ,Java Servlet </li>
   <li> Database :Oracle DB</li>
   <li>Front-End : JavaScript, HTML/ CSS, Visual Studio Code </li>
   <li> UI/UX :Figma</li>
-  
-</ul>
+  </ul>
